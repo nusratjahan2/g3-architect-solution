@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Lobster', cursive;
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Work Sans', sans-serif;
+}
+.container{
+    padding: 40px 200px;
+}
+header{
+    background-color: #bb44951a;
+}
+
+.banner{
+    
+}
+.banner h1{
+
+}   
+.banner ul{
+    list-style-type: none;
+}
+.menubar{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.lists{
+    display: flex;
+}
+.lists li{
+    margin-right: 15px;
+    padding-right: 15px;
+}
+.lists li a{
+    text-decoration: none;
+    color: #424242;
+}
